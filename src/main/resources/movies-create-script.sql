@@ -2,7 +2,7 @@
 # 2. copypasta into a new json file under /resources
 
 # --> You may need to establish a connection to your localhost db here
-
+#                 Notes
 # 3. create the movies_db
 
 # 4. use the movies_db
